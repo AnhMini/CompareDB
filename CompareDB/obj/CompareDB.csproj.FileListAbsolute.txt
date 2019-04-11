@@ -1,0 +1,12 @@
+D:\CompareDB\CompareDB\CompareDB\bin\Debug\CompareDB.exe
+D:\CompareDB\CompareDB\CompareDB\bin\Debug\CompareDB.pdb
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\ResolveAssemblyReference.cache
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.Properties.Resources.resources
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.csproj.GenerateResource.Cache
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.exe
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.pdb
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.MDIParent.resources
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.frmCompareDB.resources
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.frmNewComparision.resources
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.frmCheckDB.resources
+D:\CompareDB\CompareDB\CompareDB\obj\Debug\CompareDB.frmCompareTree.resources
