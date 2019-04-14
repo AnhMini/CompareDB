@@ -21,3 +21,5 @@ C:\Users\PC01\Desktop\CompareDB\CompareDB\obj\Debug\CompareDB.Properties.Resourc
 C:\Users\PC01\Desktop\CompareDB\CompareDB\obj\Debug\CompareDB.csproj.GenerateResource.Cache
 C:\Users\PC01\Desktop\CompareDB\CompareDB\obj\Debug\CompareDB.exe
 C:\Users\PC01\Desktop\CompareDB\CompareDB\obj\Debug\CompareDB.pdb
+C:\Users\PC01\Desktop\CompareDB\Source\CompareDB\obj\Debug\CompareDB.exe
+C:\Users\PC01\Desktop\CompareDB\Source\CompareDB\obj\Debug\CompareDB.pdb

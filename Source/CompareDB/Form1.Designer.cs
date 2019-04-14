@@ -73,9 +73,9 @@ namespace CompareDB
             // 
             this.pnlMain.ColumnCount = 1;
             this.pnlMain.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.pnlMain.Controls.Add(this.pictureBox1, 0, 0);
             this.pnlMain.Controls.Add(this.pnlContent, 0, 1);
             this.pnlMain.Controls.Add(this.tableLayoutPanel1, 0, 2);
+            this.pnlMain.Controls.Add(this.pictureBox1, 0, 0);
             this.pnlMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlMain.Location = new System.Drawing.Point(0, 0);
             this.pnlMain.Name = "pnlMain";
